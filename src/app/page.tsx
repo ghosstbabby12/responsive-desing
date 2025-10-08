@@ -220,7 +220,7 @@ export default function NetflixCloneStatic() {
                   </div>
                 </div>
                 <h4 className="font-semibold text-gray-800 text-sm mb-1 text-center">Monsters Inc.</h4>
-                <p className="text-xs text-gray-500 text-center">Don't make me grieve up</p>
+                <p className="text-xs text-gray-500 text-center">Don&apos;t make me grieve up</p>
               </div>
             </div>
           </div>
